@@ -23,3 +23,9 @@ Designed and developed a custom e-invitation page for event participants. The pa
 - Ensured responsive design for mobile and desktop devices
 - Collaborated with the team to test and deploy the page securely for client use
 
+## Note
+Sample e-invitation pages from a past events can be viewed here:  
+-
+![image](https://github.com/user-attachments/assets/7f199830-fc29-4401-b746-e499278c7007)
+
+
