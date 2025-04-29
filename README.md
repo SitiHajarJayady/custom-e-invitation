@@ -26,6 +26,7 @@ Designed and developed a custom e-invitation page for event participants. The pa
 ## Note
 Sample e-invitation pages from a past events can be viewed here:  
 - [redONE STAR NITE 2025](https://t2u.asia/ct/39906/B3582279T)
+- [redONE STAR NITE 2024](https://t2u.asia/ct/33367/48102058T)
 - [MRCA Installation Night 2024](https://t2u.asia/ct/37530/096E7EADT)
 - [Around the World in One Night 2025](https://t2u.asia/ct/33367/48102058T)
 
